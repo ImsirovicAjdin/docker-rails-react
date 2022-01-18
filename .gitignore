@@ -1,6 +1,7 @@
 backend/tmp
 .history
-tmpfrontend/node_modules
+tmp
+frontend/node_modules
 backend/.byebug_history
 backend/log/*
 backend/log/development.log
